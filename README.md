@@ -1,2 +1,2 @@
 # airline_passenger_satisfaction
-Python for data science 
+Python for data science project
